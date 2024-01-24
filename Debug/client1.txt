@@ -1,0 +1,7 @@
+2
+idCont:2
+Titular:Margelatu Andrei
+Sold:1999.99
+idCont:3
+Titular:Miclea Mario
+Sold:4559.41

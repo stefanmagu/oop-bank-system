@@ -1,0 +1,10 @@
+﻿  SistemGestiuneBanca.cpp
+C:\Users\stefa\Desktop\Visual Studio\An2Sem1\ProiectBancaPOO\SistemGestiuneBanca.cpp(516,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\stefa\Desktop\Visual Studio\An2Sem1\ProiectBancaPOO\SistemGestiuneBanca.cpp(520,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\stefa\Desktop\Visual Studio\An2Sem1\ProiectBancaPOO\SistemGestiuneBanca.cpp(523,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\stefa\Desktop\Visual Studio\An2Sem1\ProiectBancaPOO\SistemGestiuneBanca.cpp(526,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\stefa\Desktop\Visual Studio\An2Sem1\ProiectBancaPOO\SistemGestiuneBanca.cpp(531,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\stefa\Desktop\Visual Studio\An2Sem1\ProiectBancaPOO\SistemGestiuneBanca.cpp(534,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\stefa\Desktop\Visual Studio\An2Sem1\ProiectBancaPOO\SistemGestiuneBanca.cpp(537,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\stefa\Desktop\Visual Studio\An2Sem1\ProiectBancaPOO\SistemGestiuneBanca.cpp(537,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  ProiectBancaPOO.vcxproj -> C:\Users\stefa\Desktop\Visual Studio\An2Sem1\ProiectBancaPOO\x64\Debug\ProiectBancaPOO.exe
